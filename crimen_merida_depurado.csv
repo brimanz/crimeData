@@ -1,0 +1,38 @@
+Codigo,Fecha,Descripcion,Estado,Impacto,Alerta,Ciudad,Parroquia,Ubicación,Impacto_Num,Dia_Semana
+c001,2024-11-01,Robo A Mano Armada,Resuelto,alto,1.0,Merida,Sagrario,Merida Casco Central,,Friday
+c002,2024-11-02,Hurto,Resuelto,medio,0.5,Merida,Sagrario,Merida Casco Central,,Saturday
+c003,2024-11-03,Hurto,Resuelto,medio,0.5,Merida,Sagrario,Merida Casco Central,,Sunday
+c004,2024-11-04,Hurto,Resuelto,medio,0.5,Merida,Sagrario,Merida Casco Central,,Monday
+c005,2024-11-05,Homicidio,Sin Resolver,alto,1.0,Merida,Mariano Picón Salas,Los Sausales,,Tuesday
+c006,2024-11-06,Secuestro,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Wednesday
+c007,2024-11-07,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Valle,,Thursday
+c008,2024-11-08,Robo A Mano Armada,Resuelto,alto,1.0,Merida,Jacinto Plaza,San Jacinto,,Friday
+c009,2024-11-09,Homicidio,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Saturday
+c010,2024-11-10,Homicidio,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Sunday
+c011,2024-11-11,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Monday
+c012,2024-11-12,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Tuesday
+c013,2024-11-13,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Wednesday
+c014,2024-11-14,Hurto,Resuelto,medio,0.5,Merida,Gonzalo Picon Febres,El Valle,,Thursday
+c015,2024-11-15,Hurto,Resuelto,medio,0.5,Merida,Gonzalo Picon Febres,El Valle,,Friday
+c016,2024-11-16,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Saturday
+c017,2024-11-17,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Sunday
+c018,2024-11-18,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Monday
+c019,2024-11-19,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Tuesday
+c020,2024-11-20,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Valle,,Wednesday
+c021,2024-11-21,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Valle,,Thursday
+c022,2024-11-22,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Vallecito,,Friday
+c023,2024-11-23,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Vallecito,,Saturday
+c024,2024-11-24,Secuestro,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Sunday
+c025,2024-11-25,Secuestro,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Monday
+c026,2024-11-26,Homicidio,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Tuesday
+c027,2024-11-27,Homicidio,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Wednesday
+c028,2024-11-28,Homicidio,Sin Resolver,alto,1.0,Merida,Matriz,Ejido,,Thursday
+c029,2024-11-29,Homicidio,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Friday
+c030,2024-11-30,Homicidio,En Proceso,alto,1.0,Merida,Domingo Peña,La Vega,,Saturday
+c031,2024-12-01,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Sunday
+c032,2024-12-02,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Monday
+c033,2024-12-03,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Tuesday
+c034,2024-12-04,Robo A Mano Armada,Sin Resolver,alto,1.0,Merida,Domingo Peña,La Vega,,Wednesday
+c035,2024-12-05,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Valle,,Thursday
+c036,2024-12-06,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Valle,,Friday
+c037,2024-12-07,Acceso A Propiedad Privada,Resuelto,bajo,0.25,Merida,Gonzalo Picon Febres,El Valle,,Saturday

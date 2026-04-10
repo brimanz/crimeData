@@ -1,0 +1,38 @@
+Codigo,Fecha,Descripcion,Estado,Impacto,Alerta,Ciudad,Parroquia,Ubicación
+c001,01/11/2024,robo a mano armada,resuelto,alto,100 %,Merida,Sagrario,merida casco central
+c002,02/11/2024,hurto,resuelto,medio,50 %,Merida,Sagrario,merida casco central
+c003,03/11/2024,hurto,resuelto,medio,50 %,Merida,Sagrario,merida casco central
+c004,04/11/2024,hurto,resuelto,medio,50 %,Merida,Sagrario,merida casco central
+c005,05/11/2024,homicidio,sin resolver,alto,100 %,Merida,Mariano Picón Salas,los sausales
+c006,06/11/2024,secuestro,sin resolver,alto,100 %,Merida,Matriz,ejido
+c007,07/11/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el valle
+c008,08/11/2024,robo a mano armada,resuelto,alto,100 %,Merida,Jacinto Plaza,san jacinto
+c009,09/11/2024,homicidio,sin resolver,alto,100 %,Merida,Matriz,ejido
+c010,10/11/2024,homicidio,sin resolver,alto,100 %,Merida,Matriz,ejido
+c011,11/11/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Matriz,ejido
+c012,12/11/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Matriz,ejido
+c013,13/11/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Matriz,ejido
+c014,14/11/2024,hurto,resuelto,medio,50 %,Merida,Gonzalo Picon Febres,el valle
+c015,15/11/2024,hurto,resuelto,medio,50 %,Merida,Gonzalo Picon Febres,el valle
+c016,16/11/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c017,17/11/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c018,18/11/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c019,19/11/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c020,20/11/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el valle
+c021,21/11/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el valle
+c022,22/11/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el vallecito
+c023,23/11/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el vallecito
+c024,24/11/2024,secuestro,sin resolver,alto,100 %,Merida,Matriz,ejido
+c025,25/11/2024,secuestro,sin resolver,alto,100 %,Merida,Matriz,ejido
+c026,26/11/2024,homicidio,sin resolver,alto,100 %,Merida,Matriz,ejido
+c027,27/11/2024,homicidio,sin resolver,alto,100 %,Merida,Matriz,ejido
+c028,28/11/2024,homicidio,sin resolver,alto,100 %,Merida,Matriz,ejido
+c029,29/11/2024,homicidio,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c030,30/11/2024,homicidio,en proceso,alto,100 %,Merida,Domingo Peña,la vega
+c031,01/12/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c032,02/12/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c033,03/12/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c034,04/12/2024,robo a mano armada,sin resolver,alto,100 %,Merida,Domingo Peña,la vega
+c035,05/12/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el valle
+c036,06/12/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el valle
+c037,07/12/2024,acceso a propiedad privada,resuelto,bajo,25 %,Merida,Gonzalo Picon Febres,el valle
